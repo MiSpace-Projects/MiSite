@@ -1,5 +1,3 @@
-// src/styles/theme.ts
-
 export const lightTheme = {
   fonts: {
     body: "system-ui, Avenir, Helvetica, Arial, sans-serif",
